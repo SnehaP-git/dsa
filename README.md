@@ -5,7 +5,7 @@ The problems are organized by difficulty (Easy, Medium, Hard), and each solution
 
 # 📂 Repository Structure
 
-leetcode-daily/
+dsa/
 
 ├── Easy/ # Easy-level problems
 
