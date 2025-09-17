@@ -3,9 +3,8 @@
 This repository contains solutions to LeetCode problems implemented in Python.  
 The problems are organized by difficulty (Easy, Medium, Hard), and each solution includes the problem description, approach, and example test cases.
 
----
+# 📂 Repository Structure
 
-## 📂 Repository Structure
 leetcode-daily/
 
 ├── Easy/ # Easy-level problems
